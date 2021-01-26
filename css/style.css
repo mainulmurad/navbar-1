@@ -1,0 +1,74 @@
+/*font-family: 'Lato', sans-serif;*/
+/*font-family: 'Dosis', sans-serif;*/
+/*font-family: 'Sniglet', cursive;*/
+/*header start*/
+body{
+font-family: 'Dosis', sans-serif;
+font-size:20px;
+font-weight: 400;
+}
+header{
+	background-color: #ffd338;
+}
+.menu ul li a {
+	font-size:18; 
+	font-weight:700;
+	color:white !important;
+	padding: 2px 20px  !important;
+		border-radius:15px;
+
+}
+.menu ul li a:hover{
+	background-color:  #f05c5c;
+	
+
+}
+.btn{
+	color: #f4faff;
+}
+.btn:hover {
+    color: #f15c5c;
+}
+.d_user_a, .d-search-a{
+	color: white;
+}
+
+.d_user_a:hover, .d-search-a:hover{
+
+    color:  #f05c5c
+
+}
+ .d_user_ul,. .d-search-ul{
+	background-color:  #ffd338;
+}
+.d_user_ul{
+	top: 165%;
+    left: -110px;
+}
+.d-search-ul{
+    top: 165%;
+    left:-300px;
+    min-width: 350px;
+
+}
+.d_user_a:focus, .d-search-a:focus {
+    box-shadow: 0 0 0 0.25rem rgb(241 92 92);
+}
+.dropdown-menu {
+
+	background-color:#ffd338; 
+}
+.f-2:focus{
+
+	box-shadow: none;
+}
+.nav_t_c{
+    color: rgb(215 81 81 / 80%)!important;
+    border-color: rgb(178 52 52)!important;
+}
+.logo{
+	
+}
+
+
+
